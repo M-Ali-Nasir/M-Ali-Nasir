@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Ali Nasir</h1>
 <h3 align="center">Full Stack Web Developer | Specializing in PHP Laravel & MySQL</h3>
 
-- 🔭 I’m currently working on [Multivendor E-Commerce Project](https://github.com/M-Ali-Nasir/Laravel-Multi-Vendor-E-Commerce-Site)
+- 🔭 I’m recently worked on [Multivendor E-Commerce Project](https://github.com/M-Ali-Nasir/Laravel-Multi-Vendor-E-Commerce-Site)
 
 - 🌱 I’m currently learning **React.js**
 
